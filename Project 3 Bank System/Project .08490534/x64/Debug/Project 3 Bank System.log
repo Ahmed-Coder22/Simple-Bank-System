@@ -1,0 +1,131 @@
+﻿  Global.cpp
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Global.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\ClsUser.h(180,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Global.cpp')
+      C:\Users\Ahmed\source\repos\Project 3 Bank System\ClsUser.h(14,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  Project 3 Bank System.cpp
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\ClsUser.h(180,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+      C:\Users\Ahmed\source\repos\Project 3 Bank System\ClsUser.h(14,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(176,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+      C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(142,9):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(28,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(152,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(153,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(384,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(390,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsTotalBalances.h(55,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System.cpp')
+  
+  clsMainScreen.cpp
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\ClsUser.h(180,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsMainScreen.cpp')
+      C:\Users\Ahmed\source\repos\Project 3 Bank System\ClsUser.h(14,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(176,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsMainScreen.cpp')
+      C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(142,9):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(28,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(152,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(153,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(384,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(390,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsTotalBalances.h(55,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+  Generating Code...
+C:\Users\Ahmed\source\repos\Project 3 Bank System\clsBankClient.h(380,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Ahmed\source\repos\Project 3 Bank System\ClsUser.h(344,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project 3 Bank System.vcxproj -> C:\Users\Ahmed\source\repos\Project 3 Bank System\x64\Debug\Project 3 Bank System.exe
